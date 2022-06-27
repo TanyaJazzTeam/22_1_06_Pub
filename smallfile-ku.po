@@ -34,6 +34,10 @@ msgstr ""
 msgid "AMP Framework"
 msgstr ""
 
+#: /views/partials/footer.j2:31
+msgid "AMP Brand Materials110"
+msgstr ""
+
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/spec/_blueprint.yaml
 msgid "AMP HTML Specification"
 msgstr ""
